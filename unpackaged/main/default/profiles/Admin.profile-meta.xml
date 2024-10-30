@@ -238,9 +238,6 @@
         <layout>Asset-Asset Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Partner_Level_Discount__c-Partner Level Discount Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Product2-Training CPQ Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -620,10 +617,6 @@
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
-    <tabVisibilities>
-        <tab>Partner_Level_Discount__c</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
     <tabVisibilities>
         <tab>standard-Account</tab>
         <visibility>DefaultOn</visibility>
