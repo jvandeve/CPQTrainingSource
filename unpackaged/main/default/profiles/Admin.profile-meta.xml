@@ -582,10 +582,6 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>standard-ActionPlan</tab>
-        <visibility>DefaultOff</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>standard-AdvAccountForecastFact</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
