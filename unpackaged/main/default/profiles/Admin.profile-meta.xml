@@ -205,15 +205,6 @@
         <layout>Product2-Training CPQ Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>ActionPlan-Action Plan Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ActionPlanItemDependency-Action Plan Item Dependency Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ActionPlanTmplItmAssessmentInd-Action Plan Template Item Assessment Indicator Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>ActionPlnTmplItmDependency-Action Plan Template Item Dependency Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
